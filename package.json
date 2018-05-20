@@ -10,7 +10,6 @@
   "author": "Malexion",
   "license": "ISC",
   "dependencies": {
-    " superagent-jsonapify": "^1.4.5",
     "discord.js": "^10.0.1",
     "ffmpeg-binaries": "^3.2.2-3",
     "iterate-js": "^1.1.0",
