@@ -3,7 +3,7 @@ const __ = require('iterate-js');
 const fs = require('fs');
 const jsonfile = require('jsonfile');
 
-const playlistPath = '/playlists';
+const playlistPath = 'playlists';
 
 module.exports = function(bot) {
     bot.playlist = {
